@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200446122861",
+    "project_id": "login-b97c5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200446122861:android:74b5bc11ee8d9b1d",
+        "android_client_info": {
+          "package_name": "com.example.snehjain.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200446122861-1e2kvqn51um469qjgi9l6mbgo6obfp3e.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "200446122861-82snivokvtnmh1am46t6uqfcb68pnkld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snehjain.login",
+            "certificate_hash": "86133abc02072a1c1503925da34d9b62f3bbbd59"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3Kd_8jPIb-3ts8NsJgtsllQo43zvpgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
